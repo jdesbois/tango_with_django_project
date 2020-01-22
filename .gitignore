@@ -1,3 +1,5 @@
 db.sqlite3
 __pychache__/
 *.pyc
+.DS_Store
+rango/.DS_Store
